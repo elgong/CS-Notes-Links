@@ -1,4 +1,4 @@
-# Computer-Basics-Notes-Links
+﻿# Computer-Basics-Notes-Links
 
 # 学习笔记
 
@@ -139,7 +139,9 @@
 #### 树结构
 [树的种类](http://note.youdao.com/noteshare?id=786950626e4e4b162a2a276b9a2561b6&sub=A1DA2B381E5A47BD82C265F6A0DB0838)
 
-[二叉树](http://note.youdao.com/noteshare?id=3d87798249099424c8f688932e054d34&sub=962de575938af485eb5896712a3fa88b)
+[二叉树的种类](http://note.youdao.com/noteshare?id=3d87798249099424c8f688932e054d34&sub=962de575938af485eb5896712a3fa88b)
+
+[二叉树的四种遍历](http://note.youdao.com/noteshare?id=a93bf51802eb22ed23e7f01baeecdfd9&sub=C2561C42F8354E2787F3F58DC19CC2F5)
 
 
 #### 栈
