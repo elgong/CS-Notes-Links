@@ -1,8 +1,10 @@
 ﻿# Computer-Basics-Notes-Links
 
+[我的博客](www.elgong.top)
+
 # 学习笔记
 
-> 我在学习计算机基础的过程中整理了一部分笔记，但都比较零散，有些稍微连贯的内容已经整理为博客，而大部分确实很散不成体系，我先整理出链接。为了尽可能的清晰展示笔记脉络，下文将分门别类的列出，有需要请自取。
+> 我在学习计算机基础的过程中整理了一部分笔记，但都比较零散，有些稍微连贯的内容已经整理为博客，而大部分还没来得及整理成md格式，我先整理出链接。为了尽可能的清晰展示笔记脉络，下文将分门别类的列出，有需要请自取。
 > 笔记内容大部分都是参考了网上的博客以及书籍，整理笔记的习惯也是刚刚养成的，从开始整理笔记后，发现自己对于做过的东西，能够随着笔记很快的回忆起来，遇到一些问题能够快速从笔记里找到答案也是比较舒服的。笔记是用有道云分享的，我未来仍然会继续梳理这些笔记，如果有任何的错误或者意见，麻烦您联系我哈。
 
 ## 1.计算机基础篇
@@ -10,12 +12,21 @@
 
 ### 1.1 Java 相关
 
+#### 面向对象
+
+[Java面向对象-多态](http://note.youdao.com/noteshare?id=f869167b77cb73b67478290ffdcf45bc&sub=06694CB1F00B45CBA1D4BD1A4B62320C)
+
+#### 部分源码分析
+
+[java.lang.Object 类](http://note.youdao.com/noteshare?id=def11ef6e833a11434137d6fec1c834a&sub=DD0083BFCFE14839A721700413B41F38)
+
+[java.lang.Integer等基本类型包装类](http://note.youdao.com/noteshare?id=fb941f5b4a01adf474496df328542a91&sub=02C7EDC387984E3BADE744B9280EA1E6)
+
 #### 接口和抽象类
 
 [接口和抽象类的概念](http://note.youdao.com/noteshare?id=7bdd684a91766f6b448e5328f1fed251&sub=0DEE02584D22485EACF337D5F846ACCE0)
 
 [java.io.Serializable接口](http://note.youdao.com/noteshare?id=eb3b5e1f37828c301015c1fcc48b2ee9&sub=B77DF9D467AE48948C63CEE6D7B51FB5)
-
 
 [java.lang.AbstractStringBuilder](http://note.youdao.com/noteshare?id=af26732dc5f501e490a3f57c6b46333c&sub=1E9132AF928342728B68D66845201D05)
 
@@ -73,11 +84,21 @@
 
 [java 知识点梳理](http://note.youdao.com/noteshare?id=893e0088e06c4e3cd1073a6abeb7bda4&sub=AE4EBC77232149368BEFD526D435B452)
 
-[反射](http://note.youdao.com/noteshare?id=6f70c51df350a1da3b7353b5f0876ba1&sub=A890AA4181A64A17B14D21040C1A9724)
-
 [Java 刷题遇到的问题](http://note.youdao.com/noteshare?id=2b866c01ebed8c2f6594e3357ae349be&sub=AA305E3F95724374B5A3C5D96D654270)
 
 [基本数据类型and 初始化](http://note.youdao.com/noteshare?id=7c544d8a0a428eb5c142c36e771c5fac&sub=1DE4594384FD444F9C705D73C3A26556)
+
+
+
+#### jvm 虚拟机
+
+[jvm-类加载机制](http://note.youdao.com/noteshare?id=044b5c8d572a50aa43f7476075feacd6&sub=CB5ACEE22D7C4B119E920A983456E348)
+
+#### 其他
+
+[反射](http://note.youdao.com/noteshare?id=6f70c51df350a1da3b7353b5f0876ba1&sub=A890AA4181A64A17B14D21040C1A9724)
+
+[Java 动态代理](http://note.youdao.com/noteshare?id=cfb346b9be695d57572367fd3143531e&sub=DE178E988586406F87227AC75BD725CE)
 
 
 ### 1.2 数据库相关
@@ -87,9 +108,9 @@
 
 [ubuntu 环境中 mysql 安装](http://note.youdao.com/noteshare?id=32e1a61698644f735e5ae33a0d285bee&sub=WEB845b970c5cb400fcf42e04843dbd70af)
 
-
 #### 学习笔记
 
+[JDBC 使用](http://note.youdao.com/noteshare?id=c98cc599b42b416ea2bd0aec7fd11fff&sub=833E6D40B97E4F2F98EFD56C010FE4C7)
 
 [mysql必知必会](http://note.youdao.com/noteshare?id=71dd174ad72a6cca26ae011637d4a705&sub=E3BE9112006D4380953846BA1E446964)
 
@@ -107,7 +128,7 @@
 
 [mysql必知必会5-视图](http://note.youdao.com/noteshare?id=8b1f73787548684951c21dea07576331&sub=E95C55AAF40F4378B7A14176911B4B81)
 
-[mysql必知必会6-变量，存储过程，函数....(http://note.youdao.com/noteshare?id=d71e1773bdfb453b885ec8280980823e&sub=B0AFAE28DCC94DF09AE25F420927921E)
+[mysql必知必会6-变量，存储过程，函数....](http://note.youdao.com/noteshare?id=d71e1773bdfb453b885ec8280980823e&sub=B0AFAE28DCC94DF09AE25F420927921E)
 
 [mysql必知必会7](http://note.youdao.com/noteshare?id=71dd174ad72a6cca26ae011637d4a705&sub=E3BE9112006D4380953846BA1E446964)
 
@@ -116,19 +137,23 @@
 
 [mysql-数据库锁的机制和原理](http://note.youdao.com/noteshare?id=f8935a502a43186c1c821ad33ccc2c6d&sub=5D286DE5F8304B8BA7290255DBF15C0C)
 
-
 [mysql-查询截取分析](http://note.youdao.com/noteshare?id=a83b6505ac7dbb6b3c69afd1860b8ccb&sub=C419B2D7DA254E589E0F449A60544A1C)
-
 
 [mysql-架构](http://note.youdao.com/noteshare?id=79d83c8dcc01b75a80003dceb059f72b&sub=FE5D2429B49241419E96AD94536EB55C)
 
 
 
+### 1.3 计算机网络相关
 
+[互联网协议入门1-模型分层](http://note.youdao.com/noteshare?id=92e3adba9198d367e976bcc3f772d149&sub=7F7B0D8B9F3E4D7996815384809C35EA)
 
+[互联网协议入门2-访问网页的过程](http://note.youdao.com/noteshare?id=8c41ad2717d4deee47f83841e49d755b&sub=C0C042EE387F4A0096F427CE6F391887)
 
+[互联网协议入门3-TCP协议](http://note.youdao.com/noteshare?id=da8f8f709ea03270861bf11dd5aa5652&sub=C56E45ABB44A43DD982B18743B39F3E5)
 
-### 1.3 Python 相关
+[互联网协议入门4-TCP和UDP的差异对比](http://note.youdao.com/noteshare?id=e7f3f660c5df2335b7eccb7be89ce514&sub=A775AFCC161A4388859120A340BDC6CB)
+
+### 1.4 Python 相关
 
 [Anaconda 使用](http://note.youdao.com/noteshare?id=398da3b52370f6976e9a67cb3be4cd24&sub=WEBf9be5147ccbf73c569b46bb2a5ffe942)
 
@@ -163,7 +188,7 @@
 [pandas-1数据结构](http://note.youdao.com/noteshare?id=64c2febf14a2e0f96bcbc868375500b9&sub=0B21232330E442118F68ADFB44DECA6E)
 
 
-### 1.4 数据结构与算法相关
+### 1.5 数据结构与算法相关
 
 #### 链表
 [链表入门-单链表](http://note.youdao.com/noteshare?id=77d45fd3df6dc9821a505972246afc67&sub=CBBC8BE4E72147248464A2C136D8A893)
@@ -188,6 +213,9 @@
 [DFS和回溯算法- 暴力搜索的优化方案](http://note.youdao.com/noteshare?id=47da45a5509c7f21f5905c65ec87c12d&sub=E525698B083343B382EFC767181A2755)
 
 #### 一般算法
+
+[二分查找](http://note.youdao.com/noteshare?id=6139197ff7cc443d83b73f578ced01d2&sub=3671B7672DA341359DF0C57DAA5114E3)
+
 [最大公约数与最小公倍数](http://note.youdao.com/noteshare?id=417cd36012151f1465f6b179a68c2559&sub=39B0B9975CC34C589CCCF7A4A619E921)
 
 [素数和合数](http://note.youdao.com/noteshare?id=b9bb5b1c7a7f968392ca087beb53a288&sub=7AC07884471A4FFBAC433400CC8DD668)
@@ -195,8 +223,10 @@
 [排序算法-Java版](http://note.youdao.com/noteshare?id=900f90e3d481dcabbd5ce22df8452e4b&sub=2A9F48EDC9824721A63091F213AE84DF)
 
 
-### 1.4 设计模式
+### 1.6 设计模式
 [单例模式](http://note.youdao.com/noteshare?id=9b725da8bd83d6d2fa6628449036fa76&sub=61D7D7C472CC4F6FA40978D2EEE3F253)
+
+
 
 ## 2 计算机提高篇
 > 提高篇是一些具体的学习方向，我学的比较杂。
@@ -272,6 +302,14 @@
 ### 2.3 VUE
 #### VUE 安装
 [开发环境搭建](http://note.youdao.com/noteshare?id=c60a733187bef04fa0404429eb2d1f30&sub=3F4FE35DF8E349A395F8C4C19AA7BBE4)
+
+### 2.4 Spring 框架
+
+[Spring-1控制反转（IOC）和依赖注入](http://note.youdao.com/noteshare?id=7181c4a539cade23a864c8e970b05833&sub=771654DC28474896BAB711DD289A052C)
+
+[Spring-2AOP 面向切面编程-基于动态代](http://note.youdao.com/noteshare?id=32da7b7e487b45fd4fde7906fb9436a1&sub=BAF8F0AE43DB42B399AC14B01FE74689)
+
+[Spring-3事务管理Transaction Manager](http://note.youdao.com/noteshare?id=2caa6adcf719adaba44ad57fcad131e4&sub=8E30EF145E8A4972867B5476DF2DD607)
 
 
 ## 3. 工具使用
