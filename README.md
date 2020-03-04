@@ -34,26 +34,54 @@
 
 [java.lang.Comparable 接口](http://note.youdao.com/noteshare?id=4309c54f9e557075dc953a25a1e9aea4&sub=4AF6A4102AD6494F884069B5F75DB663)
 
+[java.lang.Iterable 接口](http://note.youdao.com/noteshare?id=d7525d979bbcfac0ad602e0f90124a39&sub=9B8E20EC1E924C988EB9DEC3C059FE4F)
+
 #### 集合类
 [Java集合的结构](http://note.youdao.com/noteshare?id=3f13ce83c60473cb2d03ac7d500b3771&sub=77608E57EC404A3D925D5BADFABA9F0C)
 
+[java.util.Arrays工具类](http://note.youdao.com/noteshare?id=8d5718ecf80ea7c1cd144c848afb556f&sub=D12BF9FEA9B54873871F5BDC532FB46A)
+
+[java.util.Collections 工具类](http://note.youdao.com/noteshare?id=55f2b8f2004cc365aa3200283f918642&sub=373C38673F3D4233869F2FA181CF6C77)
+
+
+
+#### ##### Collection
+
+[java.util.Collection 接口](http://note.youdao.com/noteshare?id=cf4402932c37eeda65d2cb48b771fa85&sub=38A358238D644B009E8D35E85BC3958A)
+
+[java.util.List 接口](http://note.youdao.com/noteshare?id=35066dabdc8838cbf4a81a6064d3a278&sub=B08F3371DAF94E0A8577E14A355948F7)
+
+[java.util.ArrayList 类](http://note.youdao.com/noteshare?id=ac00534071924ed6812c3087ff89522d&sub=7CF204D01C2846469F874ABE719F122E)
+
 [java.util.LinkedList 类](http://note.youdao.com/noteshare?id=24e53ad8811d97e37ae725caef30e87c&sub=3580B9F523B14B9A8346594FAB7428B7)
+
+[java.util.Vector类-线程安全](http://note.youdao.com/noteshare?id=3fefcc71bac40f731582cda7de9680a9&sub=FD48F85901CA48C2A1FDBFB356072932)
+
+[java.util.Stack类-线程安全](http://note.youdao.com/noteshare?id=7ca967ab85ba51315d576614e4debb88&sub=D7FB8F63F9524697A2B6C92EBC997759)
+
+[java.util.Queue 接口](http://note.youdao.com/noteshare?id=e69b12c5f34e8999a63f901e66cf6349&sub=378BBC5185DD4901949BA8D6CC586117)
+
+[java.util.Deque 接口](http://note.youdao.com/noteshare?id=70bcfde9362d131a6cc9769df7c6a195&sub=4CCDF46A03F64701B726C3B5B17EE5C7)
+
+[java.util.ArrayDeque 类](http://note.youdao.com/noteshare?id=a8e52263383bbff56bba83c4437e62a5&sub=273730F39B6345348B400731471932CD)
+
+[java.util.PriorityQueue 类](http://note.youdao.com/noteshare?id=d5807c6cbb3dfcd1c6a6fa2587f2a53a&sub=8DB19EF833FF477C8241702AB6C728D4)
+
+
+
+##### Map
+
+[java.util.Map 接口](http://note.youdao.com/noteshare?id=8066dded44e4cba4a621fe78ed94c4a9&sub=B9652D8B6D7940FFB5C92A5106BCC277)
 
 [java.util.TreeMap 类](http://note.youdao.com/noteshare?id=de517d176afdc4e3d0c9887c437bee17&sub=459B4CAF65FF4D67BFBE91DCED6E050E)
 
 [java.util.HashMap 类](http://note.youdao.com/noteshare?id=791e29ca757ab1dedb8f80d872c940b1&sub=70D9B6BA82AF4889ACAD0A52F18C456D)
 
-[java.util.Map 接口](http://note.youdao.com/noteshare?id=8066dded44e4cba4a621fe78ed94c4a9&sub=B9652D8B6D7940FFB5C92A5106BCC277)
-
-[java.util.ArrayList 类](http://note.youdao.com/noteshare?id=ac00534071924ed6812c3087ff89522d&sub=7CF204D01C2846469F874ABE719F122E)
-
 [java.util.HashSet 类](http://note.youdao.com/noteshare?id=473ccb760a498a837a6fca3373b1f6d1&sub=EF96DCB65AD1431BBCFBB52F21896643)
 
-[java.util.List 接口](http://note.youdao.com/noteshare?id=35066dabdc8838cbf4a81a6064d3a278&sub=B08F3371DAF94E0A8577E14A355948F7)
 
-[java.util.Collection 接口](http://note.youdao.com/noteshare?id=cf4402932c37eeda65d2cb48b771fa85&sub=38A358238D644B009E8D35E85BC3958A)
 
-[java.lang.Iterable 接口](http://note.youdao.com/noteshare?id=d7525d979bbcfac0ad602e0f90124a39&sub=9B8E20EC1E924C988EB9DEC3C059FE4F)
+
 
 #### IO 流
 [标准步骤：](http://note.youdao.com/noteshare?id=658c32dde4ecf6c8525649914d0f8560&sub=FF09583558E14D2BA25680647013CBA3)
@@ -69,8 +97,6 @@
 [多线程核心编程笔记](http://note.youdao.com/noteshare?id=0f69c79fd2c666de113882fd3ac72abf&sub=61118765FB1F4B85B048C652460A5768)
 
 
-
-[数组+java.util.Arrays工具类](http://note.youdao.com/noteshare?id=15e1fa8262fb38fa6a6f8e2de6760721&sub=0281BCC304AD4F23A161F55CDF36F9D8)
 
 [泛型（泛型接口、泛型类、泛型方法）](http://note.youdao.com/noteshare?id=d30458d5aac2da6b78824e51dbd982a5&sub=1C451DD2DB6F4481AB58D42E0AA63C44)
 
@@ -92,7 +118,13 @@
 
 #### jvm 虚拟机
 
-[jvm-类加载机制](http://note.youdao.com/noteshare?id=044b5c8d572a50aa43f7476075feacd6&sub=CB5ACEE22D7C4B119E920A983456E348)
+[jvm1-内存模型-运行时数据区](http://note.youdao.com/noteshare?id=4be4640b0d30a46e8e4936fca48fc4da&sub=E4ACF7E445F4469FB7C49A184325AA3A)
+
+[jvm2-类加载机制](http://note.youdao.com/noteshare?id=044b5c8d572a50aa43f7476075feacd6&sub=CB5ACEE22D7C4B119E920A983456E348)
+
+[jvm3-对象的创建过程](http://note.youdao.com/noteshare?id=38a77fc1b5541c7443a42bb8936ad699&sub=AC6273A6423A45D49DF9D7BA2C02D087)
+
+
 
 #### 其他
 
