@@ -43,7 +43,7 @@
 
 [java.util.Collections 工具类](http://note.youdao.com/noteshare?id=55f2b8f2004cc365aa3200283f918642&sub=373C38673F3D4233869F2FA181CF6C77)
 
-
+[集合类之间的转换](http://note.youdao.com/noteshare?id=2d1b0ca8f6ee80acab26bac64e65752b&sub=BC00717F11EC48DBAA3187C99E27FB67)
 
 #### ##### Collection
 
@@ -66,6 +66,10 @@
 [java.util.ArrayDeque 类](http://note.youdao.com/noteshare?id=a8e52263383bbff56bba83c4437e62a5&sub=273730F39B6345348B400731471932CD)
 
 [java.util.PriorityQueue 类](http://note.youdao.com/noteshare?id=d5807c6cbb3dfcd1c6a6fa2587f2a53a&sub=8DB19EF833FF477C8241702AB6C728D4)
+
+[java.util.Set 接口](http://note.youdao.com/noteshare?id=78367406564a757c47fbb5fd74ab4118&sub=CD2FAD0FE2EE433EAFEB76285A06D389)
+
+[java.util.HashSet 类](http://note.youdao.com/noteshare?id=473ccb760a498a837a6fca3373b1f6d1&sub=EF96DCB65AD1431BBCFBB52F21896643)
 
 
 
@@ -92,11 +96,37 @@
 
 #### 多线程与并发
 
-[Java 多线程](http://note.youdao.com/noteshare?id=12aac80f35ab764277a810af76852cb2&sub=4A4D685F065F46B9B60D9703CEE04D29)
+[synchronized 锁的JVM中实现原理-偏向](http://note.youdao.com/noteshare?id=b7407e24b468fd58df564afcbf749183&sub=954EE84618B44B6FAFE4931E4F691873)
 
-[多线程核心编程笔记](http://note.youdao.com/noteshare?id=0f69c79fd2c666de113882fd3ac72abf&sub=61118765FB1F4B85B048C652460A5768)
+[线程的创建](http://note.youdao.com/noteshare?id=0f69c79fd2c666de113882fd3ac72abf&sub=61118765FB1F4B85B048C652460A5768)
+
+[线程间的通信](http://note.youdao.com/noteshare?id=49735f35157748a107270cb85fbb867c&sub=0D34816A0AA24981B0B61EB87A64C8D4)
+
+[线程的生命周期](http://note.youdao.com/noteshare?id=12aac80f35ab764277a810af76852cb2&sub=4A4D685F065F46B9B60D9703CEE04D29)
+
+[对象和变量的并发访问（可见性，原子性](http://note.youdao.com/noteshare?id=8d401fdafcc6c5712042fa06f6e3850b&sub=96CD2BBFE5914F089493A803A5B7D020)
+
+[ java.util.concurrent.locks包 ](http://note.youdao.com/noteshare?id=ed1aa8d1cf7688f52c1598735165a2dc&sub=15233B8FCFFB4E11AC6167CE4BF4077E)
 
 
+
+[J.U.C多线程1-Executor 框架的梳理](http://note.youdao.com/noteshare?id=291668d9a729451d6c913b3137c9640f&sub=B28DDF08EC1F4457BFF740A9D8869FE5)
+
+[J.U.C多线程2-ThreadPoolExecutor线程](http://note.youdao.com/noteshare?id=5b0658b7d6383586ef61f9c80ef3d249&sub=CE01D9FD424D45BCA78F88E1A0149C0D)
+
+[实现BlockingQueue接口的阻塞队列](http://note.youdao.com/noteshare?id=cb9e9ac4838bfdbb7e23f67711f2a84a&sub=859FFFFB9E664A18BB2DBE355F094405)
+
+
+
+[J.U.C多线程3-CAS比较和交换 ](http://note.youdao.com/noteshare?id=19714d2d692039c32ebba2ee3e4829e0&sub=2F7585F44D7E4DBE84E9487A24766668)
+
+[J.U.C多线程3-AQS 同步器框架的梳理](http://note.youdao.com/noteshare?id=6a89441511d69a3bced7209ba47b736b&sub=4A1DC26FB09D4E0C9D6086E37FDEAD6B)
+
+[J.U.C多线程4-AQS框架的应用](http://note.youdao.com/noteshare?id=4ef9100e71f2628636a4bff9b73fe882&sub=7998ABD160384F36A606B72FB7493232)
+
+
+
+#### 其他
 
 [泛型（泛型接口、泛型类、泛型方法）](http://note.youdao.com/noteshare?id=d30458d5aac2da6b78824e51dbd982a5&sub=1C451DD2DB6F4481AB58D42E0AA63C44)
 
@@ -123,6 +153,10 @@
 [jvm2-类加载机制](http://note.youdao.com/noteshare?id=044b5c8d572a50aa43f7476075feacd6&sub=CB5ACEE22D7C4B119E920A983456E348)
 
 [jvm3-对象的创建过程](http://note.youdao.com/noteshare?id=38a77fc1b5541c7443a42bb8936ad699&sub=AC6273A6423A45D49DF9D7BA2C02D087)
+
+[jvm4-垃圾回收机制 ](http://note.youdao.com/noteshare?id=85b9df0570061425d77cd09d542758a3&sub=C25619379B2547F5A492FB6900FA53F9)
+
+[自定义类加载器实现热部署，热替换](http://note.youdao.com/noteshare?id=3f927397764ecb9a72e25d53d1a8447e&sub=DB8BF7AF904E4224A287A4B22D114460)
 
 
 
@@ -164,14 +198,21 @@
 
 [mysql必知必会7](http://note.youdao.com/noteshare?id=71dd174ad72a6cca26ae011637d4a705&sub=E3BE9112006D4380953846BA1E446964)
 
-[mysql-索引及优化](http://note.youdao.com/noteshare?id=003c0cce526f2a71945614993d250377&sub=56317DB968F04FE3BCC0D482D083C877)
+http://note.youdao.com/noteshare?id=79d83c8dcc01b75a80003dceb059f72b&sub=FE5D2429B49241419E96AD94536EB55C)
+
+[索引优化1-索引的概念 ](http://note.youdao.com/noteshare?id=003c0cce526f2a71945614993d250377&sub=56317DB968F04FE3BCC0D482D083C877)
+
+[索引优化2-Mysql索引的底层实现 ](http://note.youdao.com/noteshare?id=a527e1fa83cc6b429814c2f8710b891c&sub=9B9BDA5A138144B5A5A5E5C4BE6CE1D1)
 
 
-[mysql-数据库锁的机制和原理](http://note.youdao.com/noteshare?id=f8935a502a43186c1c821ad33ccc2c6d&sub=5D286DE5F8304B8BA7290255DBF15C0C)
 
-[mysql-查询截取分析](http://note.youdao.com/noteshare?id=a83b6505ac7dbb6b3c69afd1860b8ccb&sub=C419B2D7DA254E589E0F449A60544A1C)
+[索引优化3- explain 查看执行计划 ](http://note.youdao.com/noteshare?id=f35d29b727ca3a228bfad4aac0a9e9e6&sub=53F88FCDB69547E895DAD25A7D402035)
 
-[mysql-架构](http://note.youdao.com/noteshare?id=79d83c8dcc01b75a80003dceb059f72b&sub=FE5D2429B49241419E96AD94536EB55C)
+[Sql语句优化-查询截取分析 ](http://note.youdao.com/noteshare?id=a83b6505ac7dbb6b3c69afd1860b8ccb&sub=C419B2D7DA254E589E0F449A60544A1C)
+
+[mysql-数据库锁的机制和原理 ](http://note.youdao.com/noteshare?id=f8935a502a43186c1c821ad33ccc2c6d&sub=5D286DE5F8304B8BA7290255DBF15C0C)
+
+
 
 
 
@@ -181,9 +222,11 @@
 
 [互联网协议入门2-访问网页的过程](http://note.youdao.com/noteshare?id=8c41ad2717d4deee47f83841e49d755b&sub=C0C042EE387F4A0096F427CE6F391887)
 
-[互联网协议入门3-TCP协议](http://note.youdao.com/noteshare?id=da8f8f709ea03270861bf11dd5aa5652&sub=C56E45ABB44A43DD982B18743B39F3E5)
 
-[互联网协议入门4-TCP和UDP的差异对比](http://note.youdao.com/noteshare?id=e7f3f660c5df2335b7eccb7be89ce514&sub=A775AFCC161A4388859120A340BDC6CB)
+
+[互联网协议入门3-TCP协议详细内容（传?..](http://note.youdao.com/noteshare?id=e7f3f660c5df2335b7eccb7be89ce514&sub=A775AFCC161A4388859120A340BDC6CB)
+
+[互联网协议入门4-Http协议（应用层）.n...](http://note.youdao.com/noteshare?id=71031b3ed61c6e8bd302a8577f6c396f&sub=0F5DF1F408844E7184F3A6BB5F868F89)
 
 ### 1.4 Python 相关
 
@@ -228,11 +271,16 @@
 [双向链表](http://note.youdao.com/noteshare?id=2038af6c36c144a0005d3f7cb7cbd6e1&sub=19BC0DEA04654C51970F77E363746D36)
 
 #### 树结构
-[树的种类](http://note.youdao.com/noteshare?id=786950626e4e4b162a2a276b9a2561b6&sub=A1DA2B381E5A47BD82C265F6A0DB0838)
+[树结构1-二叉树的种类 
+](http://note.youdao.com/noteshare?id=3d87798249099424c8f688932e054d34&sub=962de575938af485eb5896712a3fa88bhttp://note.youdao.com/noteshare?id=3d87798249099424c8f688932e054d34&sub=962de575938af485eb5896712a3fa88b)
 
-[二叉树的种类](http://note.youdao.com/noteshare?id=3d87798249099424c8f688932e054d34&sub=962de575938af485eb5896712a3fa88b)
+[树结构2-二叉树的四种遍历](http://note.youdao.com/noteshare?id=a93bf51802eb22ed23e7f01baeecdfd9&sub=C2561C42F8354E2787F3F58DC19CC2F5)
 
-[二叉树的四种遍历](http://note.youdao.com/noteshare?id=a93bf51802eb22ed23e7f01baeecdfd9&sub=C2561C42F8354E2787F3F58DC19CC2F5)
+[树结构3- 二叉排序树 ](http://note.youdao.com/noteshare?id=6595e3f3a04494d53c79ac4f14156b45&sub=36364C54AB334D5B85B1871D6758FFF7)
+
+[树结构4- 完全二叉树-堆排序 ](http://note.youdao.com/noteshare?id=ff1c7f5f5c5439a5bcf29746bafacd8e&sub=524DD42459CF4A43AB7CD89A74D83BAB)
+
+[树结构5-红黑树 ](http://note.youdao.com/noteshare?id=28a1554677d3108539d237ed2dbfb3a9&sub=6917ECACABFC4BE99B0840940E1492C3)
 
 
 #### 栈
@@ -257,6 +305,8 @@
 
 ### 1.6 设计模式
 [单例模式](http://note.youdao.com/noteshare?id=9b725da8bd83d6d2fa6628449036fa76&sub=61D7D7C472CC4F6FA40978D2EEE3F253)
+
+[汇总 ](http://note.youdao.com/noteshare?id=3258d6710e66d885a3a213d45eea14be&sub=9E8B81697FD248EDBAAB8B203ACDD4B9)
 
 
 
