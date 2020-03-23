@@ -1,6 +1,6 @@
 ﻿# Computer-Basics-Notes-Links
 
-[我的博客](www.elgong.top)
+[我的博客]( https://www.elgong.top/ )
 
 # 学习笔记
 
